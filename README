@@ -1,0 +1,13 @@
+natsort: Natural Order String Comparison by Martin Pool
+Performs a natural sort on standard input, and writes to standard output
+http://sourcefrog.net/projects/natsort/
+
+Ported to Windows by Roland Rabien (figbug@gmail.com)
+
+Uses:
+
+getopt:
+  - Based on FSF getopt, ported by Ludvik Jerabek
+
+getline:
+  - This code is public domain -- Will Hartung 4/9/09 
